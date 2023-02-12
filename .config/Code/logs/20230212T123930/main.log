@@ -1,0 +1,9 @@
+2023-02-12 12:39:30.713 [info] update#setState idle
+2023-02-12 12:39:32.229 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-02-12 12:39:32.240 [info] [UtilityProcess id: 1, type: extensionHost, pid: 937]: successfully created
+2023-02-12 12:40:00.716 [info] update#setState checking for updates
+2023-02-12 12:40:00.721 [info] update#setState available for download
+2023-02-12 13:05:58.875 [info] [UtilityProcess id: 1, type: extensionHost, pid: 937]: received exit event with code 15
+2023-02-12 13:05:58.875 [info] Extension host with pid 937 exited with code: 15, signal: unknown.
+2023-02-12 13:05:58.876 [error] [UtilityProcess id: 1, type: extensionHost, pid: 937]: crashed with code 15 and reason 'killed'
+2023-02-12 13:05:58.893 [error] CodeWindow: renderer process gone (reason: killed, code: 15)

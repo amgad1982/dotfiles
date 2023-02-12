@@ -1,0 +1,5 @@
+2023/02/06-14:42:15.779 37ad Creating DB /home/amgad/.config/google-chrome/Default/IndexedDB/https_app.notesnook.com_0.indexeddb.leveldb since it was missing.
+2023/02/06-14:42:15.784 37ad Reusing MANIFEST /home/amgad/.config/google-chrome/Default/IndexedDB/https_app.notesnook.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/06-15:09:47.724 37b4 Level-0 table #5: started
+2023/02/06-15:09:47.733 37b4 Level-0 table #5: 860824 bytes OK
+2023/02/06-15:09:47.736 37b4 Delete type=0 #3
